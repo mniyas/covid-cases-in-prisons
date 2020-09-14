@@ -1,5 +1,5 @@
 # Covid-19 Cases in Prisons
-A data story about Covid-19 cases among prisoners in US States. Data is provided by [The Marshall Project](https://github.com/themarshallproject/COVID_prison_data)
+A data story about Covid-19 cases among prisoners in US States. Data is provided by [The Marshall Project](https://github.com/themarshallproject/COVID_prison_data). The story is hosted at [gramener.com](https://gramener.com/covid-cases-in-prisons/)
 
 **About**
 This project uses
